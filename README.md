@@ -1,1 +1,1 @@
-#  ![image](https://github.com/Ricechips/Cookie-or-Session/image.jpg)
+#  ![image](https://github.com/Ricechips/Cookie-or-Session/blob/master/image.jpg)
